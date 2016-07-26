@@ -1,0 +1,2 @@
+# goapp
+Sample go application
